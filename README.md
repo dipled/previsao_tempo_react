@@ -2,4 +2,4 @@
 
 <div align="center">
   <img width="582" height="649" alt="image" src="/src/assets/example.png" align="center" />
-</div>div>
+</div>
